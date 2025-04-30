@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hanas-bandle/static/css/main.2268c489.css",
-    "main.js": "/hanas-bandle/static/js/main.987afa1d.js",
+    "main.js": "/hanas-bandle/static/js/main.d9d091f6.js",
     "static/js/453.faa079b0.chunk.js": "/hanas-bandle/static/js/453.faa079b0.chunk.js",
     "index.html": "/hanas-bandle/index.html",
     "main.2268c489.css.map": "/hanas-bandle/static/css/main.2268c489.css.map",
-    "main.987afa1d.js.map": "/hanas-bandle/static/js/main.987afa1d.js.map",
+    "main.d9d091f6.js.map": "/hanas-bandle/static/js/main.d9d091f6.js.map",
     "453.faa079b0.chunk.js.map": "/hanas-bandle/static/js/453.faa079b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2268c489.css",
-    "static/js/main.987afa1d.js"
+    "static/js/main.d9d091f6.js"
   ]
 }
