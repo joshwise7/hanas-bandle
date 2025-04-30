@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ryanyvng/hanas-bandle/static/css/main.2268c489.css",
-    "main.js": "/ryanyvng/hanas-bandle/static/js/main.88fcf1ad.js",
-    "static/js/453.faa079b0.chunk.js": "/ryanyvng/hanas-bandle/static/js/453.faa079b0.chunk.js",
-    "index.html": "/ryanyvng/hanas-bandle/index.html",
-    "main.2268c489.css.map": "/ryanyvng/hanas-bandle/static/css/main.2268c489.css.map",
-    "main.88fcf1ad.js.map": "/ryanyvng/hanas-bandle/static/js/main.88fcf1ad.js.map",
-    "453.faa079b0.chunk.js.map": "/ryanyvng/hanas-bandle/static/js/453.faa079b0.chunk.js.map"
+    "main.css": "/hanas-bandle/static/css/main.2268c489.css",
+    "main.js": "/hanas-bandle/static/js/main.987afa1d.js",
+    "static/js/453.faa079b0.chunk.js": "/hanas-bandle/static/js/453.faa079b0.chunk.js",
+    "index.html": "/hanas-bandle/index.html",
+    "main.2268c489.css.map": "/hanas-bandle/static/css/main.2268c489.css.map",
+    "main.987afa1d.js.map": "/hanas-bandle/static/js/main.987afa1d.js.map",
+    "453.faa079b0.chunk.js.map": "/hanas-bandle/static/js/453.faa079b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2268c489.css",
-    "static/js/main.88fcf1ad.js"
+    "static/js/main.987afa1d.js"
   ]
 }
