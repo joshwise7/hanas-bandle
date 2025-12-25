@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/hanas-bandle/static/css/main.2268c489.css",
-    "main.js": "/hanas-bandle/static/js/main.d9d091f6.js",
-    "static/js/453.faa079b0.chunk.js": "/hanas-bandle/static/js/453.faa079b0.chunk.js",
-    "index.html": "/hanas-bandle/index.html",
-    "main.2268c489.css.map": "/hanas-bandle/static/css/main.2268c489.css.map",
-    "main.d9d091f6.js.map": "/hanas-bandle/static/js/main.d9d091f6.js.map",
-    "453.faa079b0.chunk.js.map": "/hanas-bandle/static/js/453.faa079b0.chunk.js.map"
+    "main.css": "/taylors-bandle/static/css/main.2268c489.css",
+    "main.js": "/taylors-bandle/static/js/main.d9d091f6.js",
+    "static/js/453.faa079b0.chunk.js": "/taylors-bandle/static/js/453.faa079b0.chunk.js",
+    "index.html": "/taylors-bandle/index.html",
+    "main.2268c489.css.map": "/taylors-bandle/static/css/main.2268c489.css.map",
+    "main.d9d091f6.js.map": "/taylors-bandle/static/js/main.d9d091f6.js.map",
+    "453.faa079b0.chunk.js.map": "/taylors-bandle/static/js/453.faa079b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2268c489.css",
